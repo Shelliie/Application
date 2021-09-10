@@ -1,0 +1,81 @@
+body 
+{
+  color: white;
+  background-color: #444444;
+  margin: 50px;
+}
+
+h1
+{
+  color: white;
+  font-family: Trebuchet MS;
+  height: 15px;
+}
+
+
+
+.header 
+{
+  color: grey;
+  height: 75px;
+  border-bottom: 1px solid;
+}
+
+.profile
+{
+  position: absolute;
+  
+}
+
+.details
+{
+  margin-left: 740px;
+  margin-top: 5px;
+  padding-left: 15px;
+  padding-bottom: 3px;
+  
+}
+
+p
+{
+  width: 700px;
+}
+
+.employment
+{
+  position: absolute;
+}
+
+.skills
+{
+  margin-left: 740px;
+  margin-top: 5px;
+  padding-left: 15px;
+  padding-bottom: 3px;
+}
+
+.education
+{
+  position: absolute;
+  margin-top: 25px;
+}
+
+.language
+{
+  margin-left: 740px;
+  margin-top: 5px;
+  padding-left: 15px;
+  padding-bottom: 3px;
+}
+
+.footer
+{
+  position: absolute;
+  margin-top: 150px;
+}
+
+img
+{
+  margin-left: 740px;
+  margin-top: 60px;
+}
